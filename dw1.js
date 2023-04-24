@@ -1,33 +1,50 @@
 
 const quizData = [
     {
-        question: "1. Java es un lenguaje de programación...?",
-        a: "binario",
-        b: "de Nivel Medio",
-        c: "de Alto nivel",
-        d: "de Bajo Nivel",
+        question: "1. El siguiente texto se refiere al concepto de...",
+        a: "hipervinculo",
+        b: "hipermedia",
+        c: "hipertexto",
+        d: "web",
         correct: "c",
         x: "\n \n \
-int x = 0;                             \n \
-int y = 0;                  A)sdfsdfsdf\n \
-while (x<5) {               B)         \n \
-y +=x;                      C)         \n \
-x++;                        D)         \n \
-System.out.println(y);                 \n \
+Elementos estructurados formados por textos entrelazados o unidos\n \
+entre sí logicamente. \n \
+ \n \
+ \n \
+ \n \
+ \n \
         \
         "
     },
     {
-        question: "2. Fue quien lanzó el lenguaje de programación Java en 1995",
-        a: "Sun Microsystems",
-        b: "Microsoft",
-        c: "Apple",
-        d: "UNIX",
-        correct: "a",
+        question: "2. El siguiente texto se refiere al concepto de...",
+        a: "hipervinculo",
+        b: "hipermedia",
+        c: "hipertexto",
+        d: "web",
+        correct: "b",
+        x: "\n \n \
+Elementos estructurados formados por diversos medios \n \
+entrelazados o unidos entre sí logicamente. \n \
+En estos hay medios como imagenes, sonidos, graficos, etc... \n \
+ \n \
+ \n \
+ \n \
+        \
+        "
+    },
+    {
+        question: "3.Las caracteristicas del lenguaje de eetiquetas son: ",
+        a: "Texto plano, etiquetas, cortar y pegar",
+        b: "las etiquetas y los elementos",
+        c: "Cortar, pegar, guardad",
+        d: "Texto plano, compacidad, facilidad de procesamiento",
+        correct: "d",
         x: ""
     },
     {
-        question: "3. Los lenguajes de programación se componen de: ",
+        question: "4. Los lenguajes de programación se componen de: ",
         a: "Etiquetas",
         b: "Sintaxis",
         c: "Lineas",
@@ -36,7 +53,7 @@ System.out.println(y);                 \n \
         x: ""
     },
     {
-        question: "4. Los 3 componentes de la plataforma Java son:",
+        question: "5. Los 3 componentes de la plataforma Java son:",
         a: "JRE, JMV y JDF",
         b: "JDK, JVM y JDR",
         c: "JBM, JPG y JRE",
@@ -45,7 +62,7 @@ System.out.println(y);                 \n \
         x: ""
     },
     {
-        question: "5. El comando para compilar un archivo .java es:",
+        question: "6. El comando para compilar un archivo .java es:",
         a: "compile-java",
         b: "compjava",
         c: "cjava",
